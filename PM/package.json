@@ -1,0 +1,20 @@
+{
+  "name": "PM_CHAT",
+  "version": "0.0.1",
+  "main": "http://pmchat.24k.hk/admin/?nw=true",
+  "node-remote": "http://pmchat.24k.hk",
+  "window": {
+    "title": "金道后台聊天室",
+	"icon": "icon.png",
+    "toolbar": false,
+    "frame": true,
+    "show_in_taskbar":true,
+    "width": 545,
+    "height": 330,
+	"resizable":false,
+    "position": "center"
+  },
+  "webkit": {
+	"plugin": true
+  }
+}

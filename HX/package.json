@@ -1,0 +1,20 @@
+{
+  "name": "HX_CHAT",
+  "version": "0.0.1",
+  "main": "http://handan.hx9999.com/admin/?nw=true",
+  "node-remote": "http://handan.hx9999.com",
+  "window": {
+    "title": "恒信贵金属后台聊天室",
+	"icon": "icon.png",
+    "toolbar": false,
+    "frame": true,
+    "show_in_taskbar":true,
+    "width": 545,
+    "height": 330,
+	"resizable":false,
+    "position": "center"
+  },
+  "webkit": {
+	"plugin": true
+  }
+}
